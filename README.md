@@ -1,7 +1,5 @@
 # Proyecto ETL de Rick y Morty
 
-![Rick and Morty Logo](https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Rick_and_Morty.jpeg/330px-Rick_and_Morty.jpeg)
-
 ## Descripción del Proyecto
 
 Este proyecto es un pipeline de **ETL (Extract, Transform, Load)** desarrollado en Python que procesa datos de la famosa serie animada "Rick y Morty". 
