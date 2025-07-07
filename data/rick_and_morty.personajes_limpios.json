@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b97238"
+  },
+  "ID_personaje": 1,
+  "Nombre_Personaje": "Rick Sanchez",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Male",
+  "Origen": "Earth (C-137)",
+  "Ubicacion_Actual": "Citadel of Ricks"
+},
+{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b97239"
+  },
+  "ID_personaje": 2,
+  "Nombre_Personaje": "Morty Smith",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Male",
+  "Origen": "unknown",
+  "Ubicacion_Actual": "Citadel of Ricks"
+},
+{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b9723a"
+  },
+  "ID_personaje": 3,
+  "Nombre_Personaje": "Summer Smith",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Female",
+  "Origen": "Earth (Replacement Dimension)",
+  "Ubicacion_Actual": "Earth (Replacement Dimension)"
+},
+{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b9723b"
+  },
+  "ID_personaje": 4,
+  "Nombre_Personaje": "Beth Smith",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Female",
+  "Origen": "Earth (Replacement Dimension)",
+  "Ubicacion_Actual": "Earth (Replacement Dimension)"
+},
+{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b9723c"
+  },
+  "ID_personaje": 5,
+  "Nombre_Personaje": "Jerry Smith",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Male",
+  "Origen": "Earth (Replacement Dimension)",
+  "Ubicacion_Actual": "Earth (Replacement Dimension)"
+},
+{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b9723d"
+  },
+  "ID_personaje": 17,
+  "Nombre_Personaje": "Annie",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Female",
+  "Origen": "Earth (C-137)",
+  "Ubicacion_Actual": "Anatomy Park"
+},
+{
+  "_id": {
+    "$oid": "6860cc87decf0cbc58b9723e"
+  },
+  "ID_personaje": 18,
+  "Nombre_Personaje": "Antenna Morty",
+  "Estado de vida": "Alive",
+  "Especie": "Human",
+  "Genero": "Male",
+  "Origen": "unknown",
+  "Ubicacion_Actual": "Citadel of Ricks"
+}]
